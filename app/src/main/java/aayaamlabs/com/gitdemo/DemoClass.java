@@ -4,8 +4,9 @@ public class DemoClass {
 
     String name="Demo";
     String getName;
-
-    public String getGetName() {
+    String hjdgf="hudf";
+    public String getGetName()
+    {
         return getName;
     }
 }
