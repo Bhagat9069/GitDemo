@@ -13,4 +13,8 @@ public class DemoClass {
         int a=2;
         return getName;
     }
+
+    public String getName() {
+        return name;
+    }
 }
