@@ -11,7 +11,7 @@ public class DemoClass {
     }
 
     public String getGetName() {
-        int a=2;
+        float a=2f;
         return getName;
     }
 
