@@ -14,16 +14,7 @@ public class DemoClass {
         float a=2f;
         float p=20.0f;
         ///jhdfys
-
         return getName;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    public void setP(String p) {
-        this.p = p;
     }
 
     public String getName() {
