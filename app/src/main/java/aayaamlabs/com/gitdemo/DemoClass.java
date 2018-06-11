@@ -29,4 +29,8 @@ public class DemoClass {
     public String getName() {
         return name;
     }
+    public void g()
+    {
+
+    }
 }
