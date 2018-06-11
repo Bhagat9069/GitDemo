@@ -31,6 +31,7 @@ int j,h,o,k,g;
     }
     public void g()
     {
-
+            int k;
     }
+    int p1=0;
 }
