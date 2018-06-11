@@ -14,7 +14,7 @@ public class DemoClass {
         float a=2f;
         float p=20.0f;
         ///jhdfys
-
+int j,h,o,k,g;
         return getName;
     }
 
