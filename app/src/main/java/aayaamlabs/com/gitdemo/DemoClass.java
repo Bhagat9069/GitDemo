@@ -4,6 +4,7 @@ public class DemoClass {
 
     String name="Demo";
     String getName;
+    String p="jdhfgs";
 
     public void setGetName(String getName) {
         this.getName = getName;
